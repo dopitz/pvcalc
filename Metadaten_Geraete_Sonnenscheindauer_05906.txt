@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5906;Mannheim;8.55;49.51;96;5.5;19790101;19870930;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5906;Mannheim;8.55;49.51;96;7;19871001;20060530;Sonnenscheinschreiber nach Campbell-Stokes;Sonnenscheinregistrierung, konv.;eor;
+5906;Mannheim;8.55;49.51;96.1;19;20060531;20060606;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5906;Mannheim;8.55;49.51;96.1;19;20060607;20101231;SONIe Sonnenenergie-Sensor;Sonnenscheindauer, elektr.;eor;
+5906;Mannheim;8.55;49.51;96.1;10;20110101;20180402;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+5906;Mannheim;8.56;49.51;97.95;10;20180403;20180404;SCAPP;Sonnenscheind/Strahlungsmessung, elektr.;eor;
+5906;Mannheim;8.56;49.51;97.95;1.82;20180405;20190606;SONIe Sonnenenergie-Sensor e3;Sonnenscheindauer, elektr.;eor;
+5906;Mannheim;8.56;49.51;97.95;1.82;20201123;20220926;SONIe Sonnenenergie-Sensor e2;Sonnenscheindauer, elektr.;eor;
+generiert: 27.09.2022 --  Deutscher Wetterdienst  --

@@ -1,0 +1,7 @@
+Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Einheit;Datenquelle (Strukturversion=SV);Zusatz-Info;Besonderheiten;Literaturhinweis;eor;
+5906;20180502;20220831;Mannheim;ATMO_STRAHL;Tagessume der langwelligen atmosphaerischen Strahlung;J/cm²;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+5906;19790201;20220831;Mannheim;FD_STRAHL;Tagessume der kurzwelligen diffusen Himmelsstrahlung;J/cm²;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+5906;19790101;20220831;Mannheim;FG_STRAHL;Tagessume der kurzwelligen Globalstrahlung;J/cm²;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+5906;19790101;20220831;Mannheim;SD_STRAHL;Tagessume der Sonnenscheindauer;Stunde;Strahlungsmessnetz, nur Gerätetyp Pyranometer (früher wissenschaftliches Messnetz des MOL);00:00 UTC bis 23:00 UTC;;;eor;
+Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
+generiert: 27.09.2022 --  Deutscher Wetterdienst  --

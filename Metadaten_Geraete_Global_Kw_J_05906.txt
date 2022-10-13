@@ -1,0 +1,14 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+5906;Mannheim;8.55;49.51;96;;19790101;19810508;Pyranometer, unbekannt;Strahlungsmessung;eor;
+5906;Mannheim;8.55;49.51;96;9;19810101;19850606;Pyranometer CM5;Strahlungsmessung, elektr.;eor;
+5906;Mannheim;8.55;49.51;96;;19810509;19870430;Pyranometer CM5;Strahlungsmessung, elektr.;eor;
+5906;Mannheim;8.55;49.51;96;9;19850607;20031021;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5906;Mannheim;8.55;49.51;96;;20030925;20060528;Pyranometer, unbekannt;Strahlungsmessung;eor;
+5906;Mannheim;8.55;49.51;96;9;20050829;20060530;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5906;Mannheim;8.55;49.51;96.1;9;20060531;20060606;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5906;Mannheim;8.55;49.51;96.1;9;20060607;20081209;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5906;Mannheim;8.55;49.51;96.1;;20060608;20091027;Pyranometer, unbekannt;Strahlungsmessung;eor;
+5906;Mannheim;8.55;49.51;96.1;9;20090227;20101215;Pyranometer CM11;Strahlungsmessung, elektr.;eor;
+5906;Mannheim;8.56;49.51;97.95;1.85;20180405;20220926;Pyranometer CMP22;Strahlungsmessung, elektr.;eor;
+5906;Mannheim;8.56;49.51;97.95;1.75;20210817;20220926;Pyranometer CMP22;Strahlungsmessung, elektr.;eor;
+generiert: 27.09.2022 --  Deutscher Wetterdienst  --
